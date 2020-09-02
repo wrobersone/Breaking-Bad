@@ -1,3 +1,5 @@
+- useState to use state in functional components, useEffect to make httpRequest to retrieve data
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
